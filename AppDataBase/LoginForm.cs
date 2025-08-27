@@ -29,7 +29,7 @@ namespace AppDataBase
             string contraseña = txtPassword.Text;
 
             // Cadena de conexión: ajusta el nombre de la base de datos
-            string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=miBaseDeDatos;Trusted_Connection=True;";
+            string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
@@ -59,6 +59,11 @@ namespace AppDataBase
                     MessageBox.Show("Error de conexión: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+        }
+
+        private void txtUsuario_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

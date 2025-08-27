@@ -30,14 +30,14 @@ namespace AppDataBase
 
             SqlConnection connection;
             string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
-            string query = "SELECT * FROM Persons";
+            string query = "SELECT * FROM Personas";
 
             try
             {
                 connection = new SqlConnection(connectionString);
                 connection.Open();
 
-                SqlCommand cmd = new SqlCommand("insert into Persons(PersonID,FirstName,LastName) VALUES(@PersonID, @FirstName, @LastName)", connection);
+                SqlCommand cmd = new SqlCommand("insert into Personas(PersonID,FirstName,LastName) VALUES(@PersonID, @FirstName, @LastName)", connection);
                 cmd.Parameters.AddWithValue("@PersonID", PersonID);
                 cmd.Parameters.AddWithValue("@FirstName", FirstName);
                 cmd.Parameters.AddWithValue("@LastName", LastName);
@@ -83,14 +83,14 @@ namespace AppDataBase
             LastName = txtLastName.Text;
             FirstName = txtFirstName.Text;
 
-            string connectionString = "Data Source= (localdb)\\MSSQLLocalDB;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
+            string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
 
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
-                    string query = "UPDATE Persons SET LastName = @LastName, FirstName = @FirstName WHERE PersonID = @PersonID";
+                    string query = "UPDATE Personas SET LastName = @LastName, FirstName = @FirstName WHERE PersonID = @PersonID";
                     using (SqlCommand cmd = new SqlCommand(query, connection))
                     {
                         cmd.Parameters.AddWithValue("@PersonID", PersonID);
@@ -125,14 +125,14 @@ namespace AppDataBase
             LastName = txtLastName.Text;
             FirstName = txtFirstName.Text;
 
-            string connectionString = "Data Source= (localdb)\\MSSQLLocalDB;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
+            string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
 
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
-                    string query = "DELETE FROM Persons WHERE PersonID = @PersonID";
+                    string query = "DELETE FROM Personas WHERE PersonID = @PersonID";
                     using (SqlCommand cmd = new SqlCommand(query, connection))
                     {
                         cmd.Parameters.AddWithValue("@PersonID", PersonID);
@@ -157,14 +157,14 @@ namespace AppDataBase
 
         private void btnVerTodos_Click(object sender, EventArgs e)
         {
-            string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
+            string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
 
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                  connection.Open();
-                    string query = "SELECT * FROM Persons";
+                    string query = "SELECT * FROM Personas";
                     using (SqlDataAdapter adapter = new SqlDataAdapter(query, connection))
                     {
                     DataTable resultadoTable = new DataTable();
@@ -184,14 +184,14 @@ namespace AppDataBase
         private void btnBuscar_Click(object sender, EventArgs e)
         {
             int PersonID = Convert.ToInt32(txtPersonID.Text);
-            string connectionString = "Data Source= (localdb)\\MSSQLLocalDB;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
+            string connectionString = "Data Source=LAPTOP-5OE3AFLL\\SQLEXPRESS;Initial Catalog=miBaseDeDatos;Integrated Security=True;Encrypt=False;";
 
             try
             {
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
                     connection.Open();
-                    string query = "SELECT * FROM Persons WHERE PersonID = @PersonID";
+                    string query = "SELECT * FROM Personas WHERE PersonID = @PersonID";
                     using (SqlCommand cmd = new SqlCommand(query, connection))
                     {
                         cmd.Parameters.AddWithValue("@PersonID", PersonID);

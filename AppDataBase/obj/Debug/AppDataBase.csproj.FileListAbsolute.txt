@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\bin\Debug\AppDataBase.exe.config
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\bin\Debug\AppDataBase.exe
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\bin\Debug\AppDataBase.pdb
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.Form1.resources
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.exe
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.pdb
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.exe.config
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.Form2.resources
+C:\Users\Usuario\source\repos\AppDataBase\AppDataBase\obj\Debug\AppDataBase.LoginForm.resources

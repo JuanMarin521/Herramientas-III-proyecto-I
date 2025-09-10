@@ -23,3 +23,5 @@ C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataB
 C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataBase.csproj.CoreCompileInputs.cache
 C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataBase.exe
 C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataBase.pdb
+C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataBase.exe.config
+C:\Users\Pablo\Escritorio\AppDataBase\AppDataBase\AppDataBase\obj\Debug\AppDataBase.Usuarios.resources

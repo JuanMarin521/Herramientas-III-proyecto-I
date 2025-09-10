@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|c:\\users\\pablo\\escritorio\\appdatabase\\appdatabase\\appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{152AE6E7-0A71-4B54-B0CA-2AEF5103B4E0}|AppDataBase\\AppDataBase.csproj|solutionrelative:appdatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,15 +90,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form2.cs",
               "RelativeDocumentMoniker": "AppDataBase\\Form2.cs",
               "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form2.cs",
               "RelativeToolTip": "AppDataBase\\Form2.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAnwF0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:46:36.374Z",
+              "WhenOpened": "2025-09-10T21:24:22.001Z",
               "EditorCaption": ""
             },
             {
@@ -97,9 +109,9 @@
               "RelativeDocumentMoniker": "AppDataBase\\LoginForm.cs",
               "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\LoginForm.cs",
               "RelativeToolTip": "AppDataBase\\LoginForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:37:06.119Z",
+              "WhenOpened": "2025-08-29T21:49:52.155Z",
               "EditorCaption": ""
             },
             {
@@ -111,31 +123,69 @@
               "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\LoginForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "AppDataBase\\LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:37:04.083Z",
+              "WhenOpened": "2025-08-29T21:49:50.74Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AppDataBase\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Usuarios.cs",
+              "RelativeToolTip": "AppDataBase\\Usuarios.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwA8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:49:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Usuarios.cs",
+              "RelativeDocumentMoniker": "AppDataBase\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AppDataBase\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:41:53.36Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "AppDataBase\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs [Design]",
+              "RelativeToolTip": "AppDataBase\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:41:10.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "AppDataBase\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs",
+              "RelativeToolTip": "AppDataBase\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T21:42:11.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form2.cs",
               "RelativeDocumentMoniker": "AppDataBase\\Form2.cs",
               "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form2.cs [Dise\u00F1o]",
               "RelativeToolTip": "AppDataBase\\Form2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:36:02.904Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs",
-              "RelativeDocumentMoniker": "AppDataBase\\Form1.cs",
-              "ToolTip": "C:\\Users\\Pablo\\Escritorio\\AppDataBase\\AppDataBase\\AppDataBase\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "AppDataBase\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:35:58.171Z",
+              "WhenOpened": "2025-08-29T21:41:07.664Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

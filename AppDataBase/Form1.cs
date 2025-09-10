@@ -37,5 +37,19 @@ namespace AppDataBase
             newMDIChild.Show();
         
     }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (Application.OpenForms.OfType<Usuarios>().Count() > 0)
+            {
+                MessageBox.Show("La ventana ya está abierta.");
+                return;
+            }
+            
+                
+            Usuarios usuariosForm = new Usuarios();
+            usuariosForm.MdiParent = this;
+            usuariosForm.Show();
+        }
     }
 }
